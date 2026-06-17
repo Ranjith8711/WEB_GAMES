@@ -14,7 +14,7 @@ A collection of fun browser-based games created using HTML, CSS, and JavaScript.
 **Demo:**
 ---
 ### 4. Angry Birdz
-**Demo:**
+**Demo:** https://ranjith2025.neocities.org/web%20gamez/angry%20birds/angry_birds_v1
 ---
 
 ## 🛠️ Technologies Used
