@@ -5,20 +5,16 @@ A collection of fun browser-based games created using HTML, CSS, and JavaScript.
 ## 🚀 Games
 
 ### 1.  Space Shooter
-
 **Demo:**    
-
 ---    
 ### 2.  Flappy Bird 
-
 **Demo:**
-
 ---
-  
 ### 3.  Fruit Ninja
-
 **Demo:**
-
+---
+### 4. Angry Birdz
+**Demo:**
 ---
 
 ## 🛠️ Technologies Used
